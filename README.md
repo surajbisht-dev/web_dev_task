@@ -36,9 +36,8 @@ npm install
 npm run dev
 
 
-Backend runs on http://localhost:5000
-Frontend runs on http://localhost:5173
-
+Backend runs on  https://web-dev-task-4gz0.onrender.com
+Frontend runs on https://web-dev-task-1-cgl3.onrender.com
 API Endpoints
 
 POST /api/contacts – Add contact
