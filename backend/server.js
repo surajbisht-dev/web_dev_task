@@ -14,7 +14,7 @@ app.use(express.json());
 app.use("/api/contacts", require("./routes/contactRoutes"));
 
 app.get("/", (req, res) => {
-  res.send("Contact Management API Running");
+  res.send("Contact Management API Running on Server");
 });
 
 const PORT = process.env.PORT || 5000;
